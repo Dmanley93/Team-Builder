@@ -1,0 +1,26 @@
+nav{
+    background-color: darkblue;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(253, 227, 192);
+}
+
+.container{
+    background-color: #2cf0f0;
+    margin: 1.5rem;
+    max-width: 400px;
+    float: left;
+}
+
+.card-title{
+    font-size: 32px;
+    margin-left: 1.5rem;
+}
+
+li {
+    font-size: 18px;
+}
